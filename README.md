@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankita</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<img aligh="right" alt="coding" widht="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw01aD0PyKP3MJVokpYRhG6V&ust=1686595015232000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPCe_Zbuu_8CFQAAAAAdAAAAABAE"
+<img align="right" alt="coding" widht="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ank809&label=Profile%20views&color=0e75b6&style=flat" alt="ank809" /> </p>
 
