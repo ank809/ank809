@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ankita</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">Hello  👋, I'm Ankita</h1>
+<h3 align="center">A passionate Computer Science Undergrad  </h3>
 <img align="right" alt="coding" widht="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ank809&label=Profile%20views&color=0e75b6&style=flat" alt="ank809" /> </p>
