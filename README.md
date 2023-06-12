@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Ankita</h1>
+<h1 align="center">Hi 👋, I'm Ankita</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="coding" widht="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 
