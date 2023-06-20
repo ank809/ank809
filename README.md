@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@ankita8091](https://hashnode.com/@ankita8091)
 
-- 💬 Ask me about **Java, C, HTML , MySQL**
+- 💬 Ask me about **Java, C, HTML , MySQL , CSS , Flutter **
 
 - 📫 How to reach me **ankita12202002@gmail.com**
 
